@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+numpy
+pandas
+xgboost
+fuzzywuzzy
+python-Levenshtein       # speeds up fuzzywuzzy
+beautifulsoup4
+distance

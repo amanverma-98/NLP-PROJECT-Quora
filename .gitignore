@@ -1,0 +1,12 @@
+__pycache__/
+npl-env/
+train.csv
+
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
